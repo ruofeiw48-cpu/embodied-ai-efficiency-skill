@@ -1,2 +1,187 @@
-# embodied-ai-efficiency-skill
-A workflow automation skill designed to improve task tracking, daily reporting, and data collection efficiency in embodied AI operations.
+# Embodied AI Efficiency Skill
+
+## 1. Project Overview
+
+This project is a product-oriented workflow automation concept designed for embodied AI data collection and delivery operations.
+
+The goal is to improve the efficiency of daily task tracking, data collection progress monitoring, and report generation for interns or operation team members working in embodied AI data projects.
+
+This repository is currently used as a documentation-first portfolio project. It focuses on business scenario analysis, workflow design, and product thinking rather than exposing any confidential company data or internal system information.
+
+---
+
+## 2. Background
+
+During embodied AI data collection and delivery work, interns and operation team members often need to check multiple sources of information, such as task progress, collector performance, quality status, and delivery summaries.
+
+However, these tasks can be repetitive and time-consuming if done manually every day.
+
+This project explores how a lightweight automation skill can help summarize key information and support daily reporting.
+
+---
+
+## 3. Business Scenario
+
+In a typical data collection operation workflow, an intern may need to answer questions such as:
+
+- What tasks should be followed up today?
+- Which data collectors have completed enough work?
+- Which tasks may have quality or delivery risks?
+- What should be included in the daily or weekly report?
+- Which data fields are available for efficiency analysis?
+
+This skill is designed to turn scattered operational information into structured outputs, such as daily to-do lists and report summaries.
+
+---
+
+## 4. Problems Identified
+
+The main problems this project tries to address are:
+
+1. Manual checking takes too much time  
+2. Task status is scattered across different pages or files  
+3. Daily reporting requires repeated summarization  
+4. Efficiency indicators are not always clearly organized  
+5. Interns need a faster way to understand operational priorities  
+
+---
+
+## 5. Proposed Solution
+
+The proposed solution is a workflow automation skill that helps generate:
+
+- Daily task follow-up list
+- Daily report summary
+- Weekly report draft
+- Field availability checklist
+- Efficiency analysis outline
+- Risk reminder for unfinished or abnormal tasks
+
+The skill does not replace human judgment. Instead, it helps interns and operation team members quickly organize information and prepare structured communication.
+
+---
+
+## 6. Key Features
+
+### 6.1 Daily To-do Generator
+
+Automatically summarizes what needs to be followed up today based on task status, progress, and delivery requirements.
+
+Example output:
+
+- Follow up with collectors whose task progress is below expectation
+- Check whether quality review results are available
+- Confirm whether delivery materials are ready
+- Prepare daily progress summary for mentor
+
+---
+
+### 6.2 Daily Report Summary
+
+Generates a structured daily report draft, including:
+
+- Completed tasks
+- Pending tasks
+- Key risks
+- Data quality issues
+- Next-step actions
+
+---
+
+### 6.3 Field Availability Checklist
+
+Checks whether the available data fields are enough to support efficiency analysis.
+
+Example dimensions:
+
+| Dimension | Example Fields |
+|---|---|
+| Collector information | Collector ID, supplier, collector name |
+| Time dimension | Daily output, weekly output, collection duration |
+| Quality dimension | Review pass rate, valid output, rejected cases |
+| Task dimension | Task type, environment type, scenario type |
+| Delivery dimension | Packaging time, delivery status, completion status |
+
+---
+
+### 6.4 Efficiency Analysis Support
+
+Helps structure possible efficiency indicators, such as:
+
+- Output per collector
+- Output per day
+- Valid output rate
+- Quality pass rate
+- Task completion progress
+- Delivery preparation time
+
+---
+
+## 7. Workflow
+
+The planned workflow is:
+
+1. Collect or import task-related data
+2. Check available fields
+3. Clean and organize basic information
+4. Generate daily to-do list
+5. Generate daily or weekly report summary
+6. Highlight potential risks or missing information
+7. Support communication with mentor or operation team
+
+---
+
+## 8. Business Value
+
+This project demonstrates how automation can support embodied AI data operation work in a practical business setting.
+
+Potential value includes:
+
+- Reducing repetitive manual checking
+- Improving daily reporting efficiency
+- Helping interns understand task priorities faster
+- Supporting more structured communication with mentors
+- Making operational data easier to analyze
+- Turning fragmented task information into actionable summaries
+
+---
+
+## 9. My Role
+
+In this project, I position myself as an intern who observes real operational pain points and translates them into a lightweight product solution.
+
+My focus includes:
+
+- Understanding the business workflow
+- Identifying repetitive manual tasks
+- Designing useful output formats
+- Thinking about user needs from an intern perspective
+- Connecting data fields with operational decisions
+- Presenting the project as a portfolio case for product and business analysis roles
+
+---
+
+## 10. Privacy Notice
+
+This repository does not contain any confidential company data, internal system links, real employee information, server addresses, API credentials, or private business documents.
+
+All examples are simplified, anonymized, or simulated for portfolio demonstration purposes.
+
+---
+
+## 11. Current Status
+
+Current stage:
+
+- Repository created
+- Project background drafted
+- Business scenario defined
+- README documentation in progress
+
+Next steps:
+
+- Add sample data structure
+- Add workflow diagram
+- Add example daily report output
+- Add demo screenshots or mockups
+- Build a simple prototype if needed
