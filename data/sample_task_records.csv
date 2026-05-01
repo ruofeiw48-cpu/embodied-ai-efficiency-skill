@@ -1,0 +1,6 @@
+date,task_id,project_phase,scenario_type,collector_id,supplier,expected_output,submitted_output,valid_output,pass_rate,quality_status,packaging_status,delivery_status,risk_level,notes
+2026-05-01,TASK-001,Collection,Kitchen manipulation,C001,Supplier A,50,48,45,93.75%,Passed,Pending,Not delivered,Low,Progress close to target
+2026-05-01,TASK-002,Collection,Object grasping,C002,Supplier A,50,35,28,80.00%,Need review,Pending,Not delivered,Medium,Output below expectation
+2026-05-01,TASK-003,Quality Review,Table cleaning,C003,Supplier B,40,42,30,71.43%,Rejected,Not started,Not delivered,High,Low pass rate requires follow-up
+2026-05-01,TASK-004,Packaging,Door opening,C004,Supplier B,30,30,29,96.67%,Passed,Completed,Ready,Low,Ready for delivery
+2026-05-01,TASK-005,Collection,Cup pouring,C005,Supplier C,45,20,18,90.00%,Passed,Pending,Not delivered,Medium,Collection progress delayed
