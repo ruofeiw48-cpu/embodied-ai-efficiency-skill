@@ -17,10 +17,12 @@ This repository is organized as follows:
 embodied-ai-efficiency-skill/
 │
 ├── README.md
-├── examples/
-│   └── daily_report_demo.md
-└── data/
-    └── sample_task_records.csv
+├── data/
+│   └── sample_task_records.csv
+├── docs/
+│   └── workflow.md
+└── examples/
+    └── daily_report_demo.md
 ```
 
 ---
@@ -33,6 +35,11 @@ embodied-ai-efficiency-skill/
 - [Sample Task Records](data/sample_task_records.csv)  
   Provides simulated task-level data used to demonstrate how the skill may support task tracking and efficiency analysis.
 
+- [Sample Task Records](data/sample_task_records.csv)  
+  Provides simulated task-level data used to demonstrate how the skill may support task tracking and efficiency analysis.
+
+- [Workflow Design](docs/workflow.md)  
+  Explains the product workflow from task data input to daily report generation and risk identification.
 ---
 
 ## How the Skill Works
