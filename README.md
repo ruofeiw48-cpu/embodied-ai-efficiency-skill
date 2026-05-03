@@ -38,6 +38,9 @@ embodied-ai-efficiency-skill/
 
 - [Workflow Design](docs/workflow.md)  
   Explains the product workflow from task data input to daily report generation and risk identification.
+
+- [Product Requirements Document](docs/product-requirements.md)  
+  Defines the product positioning, target users, pain points, core features, success metrics, and future improvements of the skill.
 ---
 
 ## How the Skill Works
